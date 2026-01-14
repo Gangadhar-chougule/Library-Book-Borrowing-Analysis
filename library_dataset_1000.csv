@@ -1,0 +1,1001 @@
+Title,Department,Genre,BorrowDate,Count
+Organic Chemistry,Chemistry,Biography,2022-07-31,6
+Database Systems,Biology,Fiction,2020-10-08,5
+Database Systems,Literature,Technology,2020-10-09,9
+Artificial Intelligence,History,Education,2023-10-21,8
+Environmental Studies,Chemistry,Mystery,2022-05-13,8
+Robotics,Chemistry,Reference,2021-04-10,13
+Environmental Studies,Mathematics,Science,2023-11-11,10
+Data Structures,Chemistry,Fiction,2023-09-21,19
+Quantum Physics,Engineering,Reference,2024-08-08,11
+Digital Logic Design,Literature,Technology,2021-02-27,13
+Network Security,Physics,Reference,2022-04-08,20
+Data Structures,Literature,Education,2021-06-11,9
+Network Security,Chemistry,Technology,2023-03-15,19
+Operating Systems,Literature,Education,2020-10-19,12
+Robotics,Engineering,Fiction,2021-08-19,7
+Poetry Collection,Literature,Fiction,2020-12-18,18
+Poetry Collection,Computer Science,Technology,2023-06-04,8
+Database Systems,History,Fiction,2023-09-21,6
+Digital Logic Design,Literature,Science,2022-07-31,12
+Data Structures,Engineering,Fiction,2022-01-18,10
+Data Structures,Engineering,Education,2022-04-07,11
+Network Security,Biology,Science,2024-09-30,12
+Advanced Mathematics,Chemistry,Biography,2021-11-24,17
+Environmental Studies,Chemistry,Technology,2023-10-07,17
+Network Security,Engineering,Education,2020-03-04,14
+Machine Learning,Literature,Technology,2020-03-06,5
+Environmental Studies,Chemistry,Fiction,2024-05-26,15
+Machine Learning,Biology,Mystery,2024-02-17,13
+Robotics,Computer Science,Biography,2022-08-07,8
+Digital Logic Design,Computer Science,Education,2020-06-10,6
+Advanced Mathematics,Mathematics,Education,2020-01-16,8
+Operating Systems,Biology,Science,2021-10-09,16
+Human Anatomy,Computer Science,Science,2023-04-03,12
+Environmental Studies,Chemistry,Fiction,2021-09-12,19
+Poetry Collection,History,Science,2020-12-27,11
+Database Systems,Biology,Mystery,2020-06-04,7
+Poetry Collection,Computer Science,Mystery,2020-03-09,13
+Operating Systems,Physics,Mystery,2023-11-30,10
+Artificial Intelligence,Chemistry,Technology,2023-12-10,18
+Poetry Collection,Chemistry,Technology,2021-06-06,9
+Network Security,History,Science,2023-03-27,7
+Organic Chemistry,History,Technology,2022-06-17,8
+Operating Systems,History,Science,2023-02-06,20
+Digital Logic Design,Biology,Mystery,2023-04-29,15
+Advanced Mathematics,Mathematics,Fiction,2023-03-22,20
+Human Anatomy,Literature,Science,2022-11-14,13
+Advanced Mathematics,Literature,Biography,2020-10-23,7
+Environmental Studies,Chemistry,Mystery,2022-12-08,15
+Data Structures,Chemistry,Technology,2020-11-17,12
+Machine Learning,Chemistry,Technology,2022-01-02,20
+Data Structures,Literature,Technology,2023-07-25,17
+Robotics,Biology,Technology,2020-10-04,15
+Operating Systems,Mathematics,Technology,2022-11-19,7
+Environmental Studies,History,Fiction,2022-07-09,5
+Environmental Studies,Biology,Fiction,2021-05-18,19
+Organic Chemistry,History,Reference,2020-07-02,11
+Poetry Collection,Literature,Education,2024-12-16,17
+Poetry Collection,Computer Science,Mystery,2023-07-04,14
+Human Anatomy,Mathematics,Fiction,2024-10-18,5
+Poetry Collection,History,Fiction,2023-11-19,14
+Digital Logic Design,Biology,Reference,2021-06-03,12
+Digital Logic Design,History,Biography,2022-07-13,19
+Modern History,Computer Science,Biography,2023-06-08,16
+Poetry Collection,Chemistry,Education,2021-03-08,9
+Database Systems,Computer Science,Fiction,2023-09-04,8
+Artificial Intelligence,Computer Science,Mystery,2021-10-21,16
+Quantum Physics,Literature,Fiction,2020-12-08,10
+Environmental Studies,Engineering,Education,2024-11-24,18
+Machine Learning,Chemistry,Fiction,2023-09-30,14
+Environmental Studies,Computer Science,Mystery,2020-08-12,9
+Data Structures,History,Education,2020-10-06,6
+Modern History,History,Mystery,2022-03-12,10
+Artificial Intelligence,Computer Science,Science,2024-03-13,20
+Operating Systems,Engineering,Education,2020-10-01,5
+Quantum Physics,Chemistry,Reference,2024-07-31,6
+Operating Systems,Biology,Biography,2024-06-23,13
+Advanced Mathematics,History,Fiction,2023-08-17,19
+Human Anatomy,Engineering,Reference,2021-07-15,5
+Advanced Mathematics,History,Biography,2023-05-09,17
+Organic Chemistry,Physics,Science,2020-02-19,5
+Robotics,Biology,Education,2024-09-22,11
+Poetry Collection,Literature,Biography,2022-02-15,5
+Poetry Collection,Engineering,Mystery,2024-08-24,20
+Human Anatomy,History,Education,2024-09-23,20
+Robotics,Chemistry,Education,2022-01-28,13
+Operating Systems,Computer Science,Fiction,2021-07-31,20
+Quantum Physics,Literature,Reference,2022-02-25,10
+Database Systems,Chemistry,Mystery,2022-03-21,11
+Poetry Collection,History,Mystery,2020-11-30,5
+Quantum Physics,Chemistry,Mystery,2024-01-19,5
+Artificial Intelligence,Biology,Reference,2023-10-08,19
+Human Anatomy,Chemistry,Technology,2022-12-05,8
+Poetry Collection,Mathematics,Fiction,2023-03-22,16
+Environmental Studies,Physics,Education,2022-07-30,8
+Advanced Mathematics,Mathematics,Education,2024-05-07,18
+Artificial Intelligence,Literature,Reference,2023-01-02,11
+Robotics,Computer Science,Technology,2022-12-07,7
+Advanced Mathematics,Biology,Fiction,2020-11-26,13
+Poetry Collection,Physics,Biography,2020-09-18,16
+Organic Chemistry,Chemistry,Biography,2023-10-16,5
+Digital Logic Design,Biology,Biography,2024-03-31,20
+Poetry Collection,Mathematics,Education,2022-03-21,13
+Artificial Intelligence,Literature,Mystery,2024-09-30,15
+Digital Logic Design,History,Biography,2022-07-21,12
+Quantum Physics,History,Biography,2023-07-31,7
+Machine Learning,Chemistry,Education,2022-01-16,6
+Digital Logic Design,Computer Science,Biography,2022-11-25,10
+Advanced Mathematics,Engineering,Education,2021-01-31,5
+Poetry Collection,Biology,Fiction,2023-01-21,19
+Operating Systems,History,Technology,2022-01-31,18
+Machine Learning,Engineering,Technology,2024-11-01,6
+Modern History,Literature,Science,2020-01-02,14
+Environmental Studies,Engineering,Reference,2022-05-23,11
+Network Security,Chemistry,Reference,2021-12-18,11
+Machine Learning,Biology,Fiction,2021-09-18,20
+Quantum Physics,Literature,Biography,2020-03-19,12
+Poetry Collection,Engineering,Mystery,2020-04-04,15
+Machine Learning,Literature,Technology,2021-04-01,11
+Operating Systems,Computer Science,Mystery,2022-05-31,10
+Modern History,Engineering,Fiction,2022-04-16,20
+Organic Chemistry,Literature,Technology,2024-01-21,11
+Robotics,Biology,Fiction,2022-05-15,8
+Poetry Collection,Literature,Technology,2021-06-10,20
+Environmental Studies,Engineering,Biography,2022-07-10,18
+Modern History,Chemistry,Fiction,2022-08-29,16
+Artificial Intelligence,Biology,Education,2021-10-09,19
+Data Structures,History,Mystery,2023-11-26,14
+Database Systems,Biology,Fiction,2023-05-21,18
+Human Anatomy,History,Education,2024-10-20,7
+Modern History,Engineering,Biography,2023-03-03,7
+Quantum Physics,Biology,Mystery,2021-05-27,10
+Organic Chemistry,Literature,Education,2020-05-30,20
+Quantum Physics,History,Education,2021-03-26,13
+Artificial Intelligence,Engineering,Mystery,2022-06-04,11
+Database Systems,Literature,Reference,2020-12-13,9
+Data Structures,Mathematics,Education,2022-01-10,19
+Quantum Physics,Mathematics,Mystery,2023-08-27,5
+Environmental Studies,History,Reference,2021-04-29,20
+Poetry Collection,Literature,Science,2021-09-06,17
+Poetry Collection,History,Technology,2020-03-10,18
+Data Structures,Literature,Science,2022-10-26,9
+Organic Chemistry,Engineering,Mystery,2021-06-17,6
+Artificial Intelligence,Literature,Technology,2022-07-23,20
+Artificial Intelligence,Literature,Science,2020-07-19,19
+Human Anatomy,Literature,Reference,2024-12-03,19
+Quantum Physics,Chemistry,Education,2021-06-07,17
+Modern History,Mathematics,Reference,2023-03-15,9
+Artificial Intelligence,Biology,Fiction,2024-06-08,11
+Data Structures,Engineering,Technology,2024-09-11,8
+Advanced Mathematics,History,Reference,2021-04-15,9
+Digital Logic Design,Biology,Science,2021-09-26,12
+Quantum Physics,Computer Science,Reference,2023-05-08,19
+Robotics,Mathematics,Education,2024-01-13,15
+Machine Learning,Biology,Biography,2023-07-31,6
+Environmental Studies,History,Mystery,2023-09-10,6
+Network Security,Chemistry,Mystery,2022-09-17,11
+Environmental Studies,Engineering,Fiction,2023-02-21,17
+Data Structures,Mathematics,Education,2021-06-21,17
+Organic Chemistry,History,Mystery,2022-09-26,17
+Operating Systems,Engineering,Mystery,2021-09-01,9
+Machine Learning,Mathematics,Fiction,2024-06-27,6
+Environmental Studies,Mathematics,Education,2022-01-30,19
+Advanced Mathematics,Engineering,Biography,2022-05-04,5
+Modern History,Chemistry,Biography,2022-09-16,19
+Machine Learning,History,Biography,2024-10-31,7
+Machine Learning,Biology,Mystery,2022-05-23,10
+Artificial Intelligence,Engineering,Mystery,2024-06-06,7
+Modern History,Computer Science,Fiction,2022-03-29,17
+Modern History,Mathematics,Fiction,2023-04-27,16
+Poetry Collection,History,Reference,2023-05-16,9
+Human Anatomy,Chemistry,Biography,2023-06-13,13
+Network Security,Biology,Biography,2021-03-14,11
+Modern History,History,Science,2020-05-21,8
+Database Systems,Engineering,Technology,2024-05-13,17
+Environmental Studies,Biology,Science,2023-09-19,18
+Digital Logic Design,History,Education,2024-07-19,13
+Database Systems,Mathematics,Education,2024-02-05,7
+Operating Systems,Physics,Reference,2023-08-17,18
+Environmental Studies,Chemistry,Reference,2023-11-25,17
+Network Security,Chemistry,Education,2023-01-14,10
+Human Anatomy,Mathematics,Science,2022-02-10,18
+Advanced Mathematics,Literature,Technology,2021-02-03,8
+Modern History,Computer Science,Science,2020-02-16,8
+Advanced Mathematics,Literature,Technology,2024-05-17,10
+Artificial Intelligence,Physics,Fiction,2020-10-04,6
+Quantum Physics,Literature,Education,2022-07-29,16
+Artificial Intelligence,Computer Science,Mystery,2022-01-20,10
+Human Anatomy,Biology,Fiction,2024-11-15,15
+Human Anatomy,History,Science,2020-12-30,15
+Environmental Studies,Biology,Mystery,2021-09-24,7
+Network Security,History,Fiction,2022-10-29,20
+Data Structures,Engineering,Education,2020-07-25,12
+Network Security,Literature,Fiction,2024-04-03,18
+Quantum Physics,Computer Science,Biography,2022-06-14,11
+Human Anatomy,Literature,Mystery,2020-12-07,8
+Digital Logic Design,History,Technology,2021-11-26,14
+Artificial Intelligence,Mathematics,Fiction,2024-09-26,16
+Data Structures,Mathematics,Biography,2020-01-26,6
+Operating Systems,History,Biography,2023-05-22,11
+Poetry Collection,Computer Science,Reference,2020-05-28,10
+Operating Systems,Chemistry,Science,2023-04-14,9
+Data Structures,Engineering,Reference,2023-08-16,14
+Machine Learning,Engineering,Reference,2024-12-17,19
+Modern History,Computer Science,Education,2020-10-09,14
+Digital Logic Design,Engineering,Technology,2024-03-06,13
+Poetry Collection,History,Science,2024-10-22,11
+Organic Chemistry,Mathematics,Biography,2020-04-30,17
+Environmental Studies,Literature,Biography,2022-11-29,7
+Data Structures,Physics,Technology,2024-09-21,5
+Organic Chemistry,Mathematics,Education,2022-02-13,5
+Poetry Collection,Mathematics,Reference,2022-09-22,11
+Advanced Mathematics,Computer Science,Technology,2023-04-17,17
+Machine Learning,History,Technology,2022-08-08,7
+Human Anatomy,Biology,Technology,2020-10-24,14
+Advanced Mathematics,Computer Science,Mystery,2021-10-01,13
+Robotics,Biology,Fiction,2020-02-07,10
+Digital Logic Design,History,Science,2021-11-16,10
+Operating Systems,Engineering,Biography,2021-01-04,8
+Poetry Collection,Mathematics,Biography,2021-02-22,12
+Machine Learning,Biology,Science,2022-06-05,19
+Digital Logic Design,Computer Science,Technology,2024-08-03,14
+Database Systems,Mathematics,Science,2024-08-22,5
+Organic Chemistry,Mathematics,Fiction,2024-08-30,18
+Environmental Studies,Physics,Technology,2023-05-05,6
+Poetry Collection,Chemistry,Technology,2022-01-13,14
+Data Structures,Computer Science,Mystery,2023-04-04,16
+Robotics,Computer Science,Fiction,2024-10-13,11
+Database Systems,Biology,Science,2020-12-22,9
+Database Systems,Literature,Education,2022-04-14,15
+Database Systems,Chemistry,Reference,2020-08-17,16
+Machine Learning,Engineering,Education,2022-03-24,19
+Operating Systems,Chemistry,Mystery,2021-01-26,15
+Artificial Intelligence,Engineering,Science,2023-12-25,9
+Machine Learning,Chemistry,Biography,2020-09-17,14
+Environmental Studies,Physics,Education,2023-03-24,6
+Database Systems,History,Fiction,2023-01-16,11
+Robotics,Chemistry,Mystery,2023-12-30,8
+Operating Systems,Chemistry,Science,2023-08-28,9
+Machine Learning,Literature,Science,2023-01-05,17
+Artificial Intelligence,Biology,Mystery,2022-09-12,10
+Human Anatomy,Engineering,Fiction,2022-04-26,9
+Modern History,Physics,Biography,2022-04-14,12
+Database Systems,Computer Science,Science,2022-12-16,11
+Poetry Collection,Biology,Fiction,2023-12-22,6
+Advanced Mathematics,Chemistry,Reference,2024-03-01,14
+Quantum Physics,Engineering,Fiction,2023-03-22,9
+Digital Logic Design,Chemistry,Science,2023-03-19,13
+Operating Systems,Engineering,Science,2020-07-17,5
+Database Systems,Chemistry,Biography,2024-06-26,8
+Modern History,Mathematics,Biography,2020-10-26,10
+Advanced Mathematics,Literature,Reference,2022-11-21,13
+Operating Systems,Mathematics,Biography,2024-12-08,11
+Operating Systems,Physics,Biography,2022-11-22,10
+Digital Logic Design,Mathematics,Mystery,2020-12-12,15
+Modern History,Chemistry,Technology,2024-09-26,11
+Quantum Physics,Literature,Mystery,2021-12-25,5
+Machine Learning,Physics,Fiction,2023-04-09,19
+Quantum Physics,History,Reference,2020-12-07,19
+Artificial Intelligence,History,Technology,2021-05-11,6
+Environmental Studies,Mathematics,Fiction,2020-12-06,5
+Robotics,Literature,Reference,2023-12-25,18
+Poetry Collection,Biology,Biography,2022-09-16,8
+Data Structures,Mathematics,Mystery,2022-09-11,6
+Operating Systems,Chemistry,Mystery,2022-09-02,10
+Machine Learning,Mathematics,Biography,2021-04-12,18
+Advanced Mathematics,History,Science,2021-02-17,15
+Quantum Physics,Biology,Biography,2023-02-24,15
+Data Structures,Chemistry,Biography,2020-09-07,15
+Quantum Physics,Biology,Biography,2024-09-22,7
+Poetry Collection,Biology,Biography,2022-03-24,17
+Robotics,Literature,Fiction,2020-05-23,13
+Environmental Studies,History,Science,2021-11-03,18
+Data Structures,Biology,Fiction,2024-09-12,13
+Organic Chemistry,Biology,Technology,2023-02-21,19
+Quantum Physics,Engineering,Education,2022-01-17,11
+Human Anatomy,Engineering,Technology,2022-07-02,11
+Human Anatomy,Engineering,Fiction,2021-07-19,8
+Modern History,Engineering,Mystery,2023-02-08,9
+Poetry Collection,Mathematics,Mystery,2020-04-17,17
+Environmental Studies,Chemistry,Reference,2021-03-10,19
+Quantum Physics,Engineering,Education,2024-10-24,10
+Operating Systems,Chemistry,Mystery,2023-11-04,16
+Modern History,Biology,Fiction,2024-11-04,12
+Organic Chemistry,Engineering,Fiction,2020-12-22,20
+Advanced Mathematics,Physics,Science,2023-03-15,16
+Digital Logic Design,Literature,Science,2020-09-11,13
+Environmental Studies,Biology,Education,2020-12-14,9
+Network Security,Physics,Reference,2022-04-15,10
+Robotics,Biology,Education,2022-02-15,18
+Environmental Studies,Mathematics,Technology,2022-07-30,13
+Database Systems,Engineering,Technology,2023-12-09,11
+Operating Systems,Physics,Reference,2022-05-22,18
+Machine Learning,Chemistry,Biography,2024-01-28,5
+Human Anatomy,Engineering,Biography,2023-11-15,16
+Operating Systems,Literature,Reference,2022-06-26,14
+Machine Learning,Chemistry,Education,2023-02-16,14
+Organic Chemistry,Physics,Technology,2024-08-28,16
+Environmental Studies,Literature,Fiction,2020-09-20,7
+Quantum Physics,Chemistry,Science,2022-12-04,7
+Digital Logic Design,History,Science,2023-12-14,19
+Robotics,Mathematics,Education,2020-02-07,20
+Data Structures,Physics,Biography,2023-01-19,14
+Machine Learning,Engineering,Education,2023-11-09,6
+Organic Chemistry,Engineering,Education,2022-07-12,12
+Human Anatomy,History,Technology,2023-12-26,16
+Database Systems,Engineering,Mystery,2020-10-04,15
+Machine Learning,Mathematics,Fiction,2020-06-23,6
+Quantum Physics,Engineering,Education,2021-05-20,13
+Environmental Studies,Biology,Technology,2020-04-22,6
+Robotics,Biology,Fiction,2021-02-26,13
+Digital Logic Design,Literature,Education,2021-07-29,17
+Robotics,History,Biography,2024-02-09,9
+Database Systems,Biology,Education,2020-12-19,6
+Artificial Intelligence,Computer Science,Reference,2021-11-17,9
+Operating Systems,Computer Science,Reference,2024-01-09,14
+Human Anatomy,Chemistry,Science,2021-11-11,8
+Human Anatomy,Engineering,Technology,2020-07-09,15
+Organic Chemistry,History,Technology,2020-03-17,13
+Modern History,Mathematics,Fiction,2024-09-29,12
+Database Systems,Physics,Fiction,2024-06-12,10
+Data Structures,Mathematics,Biography,2023-10-26,16
+Poetry Collection,History,Technology,2023-07-04,9
+Database Systems,Mathematics,Biography,2020-04-06,14
+Human Anatomy,Physics,Education,2023-11-15,15
+Organic Chemistry,Computer Science,Biography,2021-08-15,6
+Digital Logic Design,Engineering,Education,2021-04-26,11
+Quantum Physics,Engineering,Education,2020-02-24,19
+Quantum Physics,Chemistry,Mystery,2023-08-21,20
+Artificial Intelligence,Chemistry,Mystery,2020-06-09,14
+Human Anatomy,Biology,Reference,2020-10-13,18
+Digital Logic Design,Engineering,Fiction,2020-07-25,18
+Quantum Physics,History,Fiction,2024-06-22,13
+Network Security,Literature,Mystery,2021-06-18,5
+Organic Chemistry,Computer Science,Technology,2020-07-06,6
+Data Structures,Physics,Mystery,2020-08-25,20
+Organic Chemistry,Engineering,Biography,2021-01-10,13
+Robotics,Chemistry,Education,2020-12-01,10
+Human Anatomy,Engineering,Reference,2021-06-09,16
+Robotics,Engineering,Technology,2023-05-21,13
+Data Structures,Mathematics,Fiction,2023-04-20,16
+Robotics,History,Education,2023-08-28,18
+Artificial Intelligence,Literature,Mystery,2020-07-17,8
+Artificial Intelligence,Physics,Science,2023-06-13,17
+Machine Learning,Mathematics,Biography,2021-10-08,15
+Database Systems,Chemistry,Fiction,2024-01-30,20
+Poetry Collection,Computer Science,Biography,2024-09-25,17
+Advanced Mathematics,Mathematics,Biography,2020-05-20,10
+Robotics,Engineering,Fiction,2020-12-13,5
+Advanced Mathematics,Computer Science,Fiction,2022-07-04,8
+Human Anatomy,History,Education,2021-10-27,17
+Network Security,Biology,Reference,2020-06-17,18
+Database Systems,Literature,Technology,2023-06-12,9
+Quantum Physics,History,Fiction,2024-12-19,16
+Data Structures,Computer Science,Biography,2023-12-26,7
+Machine Learning,Engineering,Technology,2024-09-22,7
+Artificial Intelligence,Literature,Technology,2024-05-06,19
+Artificial Intelligence,Biology,Fiction,2023-04-09,6
+Machine Learning,Chemistry,Fiction,2021-10-18,6
+Organic Chemistry,Engineering,Biography,2021-06-14,20
+Operating Systems,Biology,Education,2024-09-06,11
+Operating Systems,Computer Science,Science,2023-06-22,15
+Artificial Intelligence,Biology,Education,2020-11-25,11
+Environmental Studies,Mathematics,Technology,2024-11-17,9
+Database Systems,Engineering,Education,2023-05-24,14
+Poetry Collection,History,Education,2022-08-12,9
+Environmental Studies,Mathematics,Mystery,2021-12-05,18
+Organic Chemistry,Chemistry,Science,2020-01-12,14
+Artificial Intelligence,Engineering,Fiction,2024-12-06,15
+Human Anatomy,Physics,Mystery,2024-10-08,12
+Artificial Intelligence,Computer Science,Technology,2024-04-29,14
+Advanced Mathematics,Chemistry,Fiction,2020-12-15,16
+Operating Systems,Engineering,Biography,2021-04-16,12
+Digital Logic Design,Literature,Technology,2020-07-17,8
+Modern History,Biology,Fiction,2023-11-30,9
+Network Security,History,Mystery,2020-06-20,5
+Data Structures,Computer Science,Technology,2021-04-20,5
+Machine Learning,Literature,Education,2021-05-03,5
+Machine Learning,Computer Science,Technology,2022-09-03,6
+Data Structures,Engineering,Fiction,2020-06-13,6
+Organic Chemistry,Chemistry,Science,2021-08-15,14
+Network Security,Literature,Education,2023-01-27,15
+Artificial Intelligence,History,Education,2024-06-08,10
+Advanced Mathematics,Physics,Biography,2024-09-05,7
+Artificial Intelligence,Chemistry,Fiction,2021-08-17,7
+Data Structures,Physics,Science,2020-07-13,15
+Human Anatomy,History,Reference,2021-04-02,13
+Operating Systems,Literature,Mystery,2023-10-13,10
+Human Anatomy,History,Reference,2022-02-02,20
+Operating Systems,Chemistry,Fiction,2020-08-12,11
+Organic Chemistry,Mathematics,Biography,2022-05-31,11
+Human Anatomy,Biology,Science,2020-07-17,6
+Poetry Collection,Computer Science,Biography,2020-05-27,15
+Poetry Collection,History,Fiction,2024-06-19,9
+Database Systems,History,Mystery,2021-05-04,17
+Network Security,Literature,Education,2021-02-15,20
+Environmental Studies,Physics,Fiction,2021-04-24,15
+Advanced Mathematics,Biology,Reference,2021-12-04,8
+Advanced Mathematics,Engineering,Science,2023-08-16,16
+Modern History,Literature,Science,2021-03-20,9
+Digital Logic Design,Literature,Reference,2022-11-14,16
+Environmental Studies,Literature,Biography,2022-07-17,20
+Environmental Studies,Mathematics,Biography,2024-06-20,13
+Robotics,Physics,Science,2022-06-07,8
+Network Security,Chemistry,Mystery,2022-06-06,6
+Quantum Physics,Literature,Biography,2022-09-25,14
+Poetry Collection,Mathematics,Biography,2020-08-13,18
+Organic Chemistry,Physics,Science,2022-01-16,19
+Advanced Mathematics,Biology,Technology,2022-09-25,8
+Robotics,Computer Science,Biography,2024-06-26,8
+Artificial Intelligence,Literature,Science,2023-11-09,19
+Modern History,Biology,Technology,2024-04-03,7
+Data Structures,Engineering,Science,2023-08-27,10
+Network Security,Physics,Biography,2024-05-31,6
+Data Structures,Engineering,Fiction,2022-09-13,19
+Organic Chemistry,History,Education,2022-11-23,12
+Modern History,Physics,Mystery,2020-09-13,7
+Quantum Physics,Biology,Biography,2020-12-09,19
+Operating Systems,Engineering,Biography,2023-01-28,12
+Environmental Studies,Physics,Biography,2021-06-30,8
+Modern History,Engineering,Science,2023-04-16,6
+Operating Systems,Biology,Reference,2023-04-29,5
+Organic Chemistry,History,Fiction,2021-04-13,7
+Human Anatomy,Physics,Mystery,2024-04-20,9
+Robotics,Chemistry,Biography,2023-05-20,19
+Operating Systems,Chemistry,Fiction,2024-06-07,6
+Robotics,Engineering,Science,2020-02-05,12
+Digital Logic Design,Engineering,Technology,2020-03-03,14
+Artificial Intelligence,Biology,Biography,2020-02-19,16
+Robotics,Literature,Science,2022-02-02,17
+Robotics,Engineering,Fiction,2023-08-16,19
+Organic Chemistry,Physics,Science,2022-09-16,15
+Quantum Physics,Physics,Fiction,2020-09-03,14
+Modern History,Physics,Mystery,2023-03-04,15
+Modern History,Mathematics,Fiction,2021-11-30,12
+Poetry Collection,Biology,Education,2023-03-29,9
+Data Structures,Literature,Science,2024-03-15,16
+Human Anatomy,History,Biography,2020-12-07,5
+Poetry Collection,Computer Science,Technology,2022-04-10,7
+Digital Logic Design,Computer Science,Biography,2021-11-16,12
+Digital Logic Design,Physics,Mystery,2020-12-27,20
+Database Systems,Computer Science,Reference,2022-01-21,12
+Machine Learning,Chemistry,Technology,2021-10-24,5
+Operating Systems,Mathematics,Fiction,2024-06-05,18
+Database Systems,Chemistry,Science,2020-04-21,12
+Data Structures,History,Technology,2024-06-01,19
+Machine Learning,Computer Science,Education,2022-07-25,17
+Poetry Collection,Computer Science,Biography,2021-10-05,6
+Database Systems,Computer Science,Biography,2023-11-27,15
+Operating Systems,Engineering,Reference,2022-09-02,15
+Poetry Collection,Engineering,Mystery,2021-10-19,16
+Robotics,Chemistry,Mystery,2021-11-18,13
+Digital Logic Design,Computer Science,Science,2024-08-24,17
+Quantum Physics,Computer Science,Fiction,2020-07-15,9
+Artificial Intelligence,History,Mystery,2024-03-31,17
+Quantum Physics,Chemistry,Technology,2023-05-18,18
+Operating Systems,History,Technology,2021-11-06,10
+Database Systems,Mathematics,Mystery,2024-10-25,10
+Network Security,Literature,Mystery,2020-06-18,9
+Human Anatomy,Literature,Biography,2023-01-25,19
+Advanced Mathematics,Chemistry,Reference,2022-01-31,5
+Digital Logic Design,Physics,Reference,2020-10-01,15
+Digital Logic Design,Engineering,Biography,2024-10-05,5
+Data Structures,History,Technology,2022-01-28,19
+Environmental Studies,Engineering,Reference,2021-09-08,20
+Data Structures,Mathematics,Education,2022-02-25,19
+Quantum Physics,Chemistry,Technology,2023-07-06,7
+Artificial Intelligence,Physics,Science,2023-06-18,19
+Digital Logic Design,History,Mystery,2022-09-19,8
+Modern History,Computer Science,Science,2024-10-15,12
+Environmental Studies,Physics,Biography,2021-05-03,11
+Environmental Studies,Literature,Technology,2022-01-15,19
+Network Security,History,Technology,2022-11-13,5
+Human Anatomy,Literature,Science,2020-04-21,14
+Environmental Studies,Engineering,Reference,2024-06-23,17
+Environmental Studies,Mathematics,Biography,2021-01-13,16
+Data Structures,Literature,Biography,2022-02-21,11
+Database Systems,Mathematics,Mystery,2023-04-02,12
+Network Security,History,Biography,2021-09-14,7
+Machine Learning,Computer Science,Biography,2020-04-17,11
+Robotics,History,Biography,2023-11-19,16
+Network Security,History,Reference,2022-10-19,11
+Environmental Studies,Engineering,Reference,2024-02-06,18
+Network Security,Literature,Technology,2020-01-05,12
+Operating Systems,Engineering,Biography,2023-12-21,8
+Organic Chemistry,Mathematics,Technology,2023-05-28,9
+Advanced Mathematics,Engineering,Mystery,2023-04-25,17
+Organic Chemistry,Biology,Technology,2023-10-31,17
+Database Systems,History,Reference,2021-12-08,8
+Modern History,Mathematics,Mystery,2023-06-09,14
+Environmental Studies,Engineering,Reference,2020-09-07,7
+Quantum Physics,Literature,Biography,2020-02-13,5
+Poetry Collection,Chemistry,Reference,2022-09-01,8
+Data Structures,History,Reference,2023-02-03,13
+Machine Learning,Mathematics,Technology,2023-11-04,11
+Quantum Physics,History,Mystery,2022-01-26,18
+Human Anatomy,Chemistry,Reference,2021-04-25,9
+Digital Logic Design,Computer Science,Biography,2023-10-31,16
+Operating Systems,History,Science,2021-08-06,6
+Quantum Physics,Literature,Education,2020-02-16,16
+Artificial Intelligence,Mathematics,Biography,2021-01-27,15
+Quantum Physics,History,Reference,2020-06-04,18
+Machine Learning,Biology,Science,2022-09-22,18
+Environmental Studies,Literature,Reference,2020-11-16,6
+Network Security,Chemistry,Reference,2021-08-22,13
+Environmental Studies,Chemistry,Biography,2021-05-17,20
+Operating Systems,Engineering,Reference,2021-08-07,13
+Modern History,Biology,Education,2024-12-29,19
+Quantum Physics,Computer Science,Education,2020-02-10,20
+Operating Systems,History,Fiction,2021-10-17,15
+Digital Logic Design,History,Reference,2023-07-31,15
+Modern History,History,Education,2023-06-17,19
+Environmental Studies,Mathematics,Fiction,2024-04-19,17
+Modern History,Computer Science,Reference,2024-09-27,20
+Advanced Mathematics,Physics,Mystery,2020-10-02,10
+Environmental Studies,Engineering,Education,2020-08-12,11
+Organic Chemistry,Chemistry,Technology,2024-12-07,8
+Environmental Studies,History,Technology,2020-09-23,5
+Organic Chemistry,History,Biography,2021-05-16,11
+Modern History,Literature,Education,2021-01-02,14
+Machine Learning,Physics,Mystery,2021-10-15,8
+Machine Learning,Computer Science,Reference,2021-03-13,20
+Environmental Studies,Physics,Technology,2024-12-15,7
+Digital Logic Design,Physics,Biography,2024-04-23,14
+Human Anatomy,Chemistry,Fiction,2022-06-24,7
+Data Structures,History,Reference,2020-01-12,16
+Modern History,Engineering,Reference,2021-07-23,19
+Advanced Mathematics,Chemistry,Science,2023-08-11,20
+Quantum Physics,Mathematics,Science,2023-06-09,12
+Poetry Collection,Physics,Science,2023-05-03,14
+Machine Learning,History,Science,2020-11-21,6
+Digital Logic Design,Mathematics,Mystery,2023-12-21,18
+Environmental Studies,Mathematics,Mystery,2023-09-04,7
+Data Structures,History,Science,2021-03-24,10
+Quantum Physics,Engineering,Technology,2024-09-02,18
+Network Security,Engineering,Reference,2023-07-28,16
+Database Systems,History,Science,2021-10-10,7
+Environmental Studies,Computer Science,Technology,2021-01-23,8
+Data Structures,Mathematics,Mystery,2023-04-06,19
+Modern History,Computer Science,Education,2020-12-19,13
+Advanced Mathematics,Biology,Reference,2020-07-04,15
+Data Structures,Biology,Education,2020-07-15,10
+Data Structures,Biology,Mystery,2020-05-12,6
+Modern History,Biology,Biography,2020-11-24,11
+Poetry Collection,Engineering,Reference,2022-09-10,12
+Poetry Collection,Literature,Fiction,2024-07-03,15
+Modern History,Chemistry,Fiction,2022-05-16,20
+Network Security,Physics,Fiction,2024-07-26,12
+Network Security,Mathematics,Biography,2020-02-01,17
+Digital Logic Design,History,Science,2020-05-14,9
+Operating Systems,Literature,Education,2021-11-03,15
+Human Anatomy,Mathematics,Mystery,2023-01-10,15
+Data Structures,Chemistry,Technology,2021-06-20,11
+Artificial Intelligence,Mathematics,Fiction,2024-02-29,15
+Network Security,Computer Science,Biography,2024-10-24,7
+Modern History,Chemistry,Biography,2021-05-23,9
+Artificial Intelligence,Biology,Technology,2020-02-13,11
+Poetry Collection,Physics,Reference,2021-02-15,19
+Operating Systems,Biology,Biography,2020-04-07,14
+Robotics,History,Biography,2024-04-22,8
+Network Security,Computer Science,Biography,2021-06-09,14
+Environmental Studies,History,Science,2023-11-06,9
+Advanced Mathematics,Physics,Fiction,2022-04-06,15
+Artificial Intelligence,Literature,Reference,2022-11-13,12
+Modern History,Literature,Biography,2024-02-14,15
+Operating Systems,Literature,Fiction,2023-03-05,8
+Robotics,History,Technology,2023-05-17,7
+Network Security,Mathematics,Fiction,2024-06-18,10
+Machine Learning,Chemistry,Reference,2020-02-01,15
+Digital Logic Design,Engineering,Fiction,2021-07-14,10
+Operating Systems,Mathematics,Biography,2023-04-24,16
+Human Anatomy,Mathematics,Mystery,2022-12-28,9
+Data Structures,History,Reference,2021-11-07,6
+Network Security,Biology,Reference,2023-10-25,13
+Digital Logic Design,History,Fiction,2021-06-20,16
+Environmental Studies,Mathematics,Biography,2022-06-02,19
+Organic Chemistry,Chemistry,Reference,2023-10-03,9
+Digital Logic Design,Literature,Technology,2020-12-26,19
+Modern History,History,Fiction,2021-05-09,20
+Human Anatomy,Engineering,Education,2022-09-21,19
+Operating Systems,Biology,Mystery,2021-03-23,10
+Human Anatomy,Engineering,Reference,2024-12-12,18
+Organic Chemistry,Engineering,Mystery,2023-10-14,17
+Human Anatomy,Mathematics,Biography,2022-02-16,6
+Quantum Physics,Engineering,Education,2020-02-15,20
+Machine Learning,Mathematics,Reference,2022-02-24,8
+Poetry Collection,Chemistry,Education,2021-09-14,10
+Modern History,Biology,Education,2022-05-28,20
+Database Systems,Biology,Mystery,2021-02-19,18
+Environmental Studies,Chemistry,Science,2020-04-14,14
+Modern History,Mathematics,Technology,2021-05-01,15
+Digital Logic Design,Biology,Education,2021-04-24,15
+Organic Chemistry,Literature,Biography,2020-12-26,17
+Digital Logic Design,Chemistry,Technology,2022-07-02,13
+Quantum Physics,Engineering,Technology,2022-09-25,10
+Quantum Physics,History,Biography,2020-06-16,19
+Modern History,Computer Science,Fiction,2021-05-31,20
+Database Systems,Chemistry,Education,2021-09-14,15
+Robotics,Biology,Mystery,2020-12-13,7
+Quantum Physics,Mathematics,Biography,2020-06-12,7
+Operating Systems,Computer Science,Reference,2024-07-06,18
+Machine Learning,Mathematics,Mystery,2023-08-06,6
+Artificial Intelligence,Engineering,Mystery,2021-03-10,18
+Network Security,Literature,Reference,2021-04-22,19
+Human Anatomy,History,Fiction,2022-10-17,8
+Advanced Mathematics,Physics,Biography,2024-11-16,20
+Advanced Mathematics,Literature,Reference,2020-10-19,17
+Operating Systems,History,Mystery,2023-04-03,9
+Quantum Physics,Mathematics,Science,2020-07-24,17
+Robotics,Mathematics,Mystery,2023-12-18,13
+Machine Learning,Physics,Education,2024-06-20,15
+Digital Logic Design,Literature,Technology,2023-08-30,17
+Artificial Intelligence,Computer Science,Reference,2023-05-12,17
+Machine Learning,Computer Science,Mystery,2020-06-10,7
+Human Anatomy,History,Technology,2021-06-22,20
+Human Anatomy,Computer Science,Education,2021-11-14,5
+Human Anatomy,Chemistry,Mystery,2020-04-26,9
+Advanced Mathematics,Mathematics,Mystery,2022-10-22,5
+Modern History,Mathematics,Education,2020-03-06,11
+Artificial Intelligence,Engineering,Mystery,2022-12-13,19
+Robotics,Chemistry,Fiction,2022-09-30,20
+Environmental Studies,Computer Science,Reference,2023-05-05,14
+Human Anatomy,Engineering,Science,2024-02-08,14
+Organic Chemistry,Engineering,Technology,2021-01-13,15
+Operating Systems,Literature,Science,2020-12-31,5
+Human Anatomy,Biology,Technology,2023-11-27,7
+Operating Systems,Literature,Biography,2024-09-28,6
+Network Security,Mathematics,Biography,2021-11-24,13
+Poetry Collection,Biology,Fiction,2022-06-19,10
+Machine Learning,Physics,Reference,2022-12-15,15
+Human Anatomy,Computer Science,Science,2021-11-25,5
+Machine Learning,History,Fiction,2024-02-29,16
+Data Structures,Biology,Biography,2022-06-25,12
+Artificial Intelligence,Computer Science,Fiction,2020-05-29,20
+Machine Learning,Mathematics,Technology,2022-12-24,13
+Human Anatomy,Literature,Education,2021-11-08,11
+Network Security,Chemistry,Education,2020-11-23,6
+Modern History,Engineering,Reference,2024-03-28,9
+Advanced Mathematics,Physics,Technology,2022-06-09,18
+Modern History,Biology,Reference,2022-01-17,11
+Robotics,Biology,Education,2020-08-10,5
+Data Structures,Biology,Reference,2023-02-21,16
+Artificial Intelligence,Computer Science,Mystery,2020-04-17,5
+Organic Chemistry,Chemistry,Fiction,2024-11-24,8
+Advanced Mathematics,Biology,Reference,2022-11-28,9
+Advanced Mathematics,Engineering,Mystery,2020-12-21,11
+Database Systems,Computer Science,Science,2021-04-22,8
+Human Anatomy,Mathematics,Mystery,2024-11-18,20
+Artificial Intelligence,Physics,Reference,2023-02-05,12
+Poetry Collection,History,Science,2022-03-04,6
+Data Structures,Engineering,Education,2023-07-03,19
+Poetry Collection,History,Fiction,2021-09-26,12
+Robotics,Literature,Fiction,2020-08-20,10
+Poetry Collection,Mathematics,Reference,2020-02-22,18
+Database Systems,Chemistry,Reference,2023-08-08,18
+Poetry Collection,History,Technology,2024-11-09,6
+Artificial Intelligence,History,Fiction,2023-08-21,5
+Modern History,Biology,Education,2022-11-09,6
+Data Structures,Literature,Biography,2024-10-30,12
+Data Structures,Biology,Science,2021-10-06,5
+Poetry Collection,History,Mystery,2022-09-25,6
+Robotics,Engineering,Mystery,2020-05-14,16
+Quantum Physics,Mathematics,Education,2020-01-02,10
+Poetry Collection,Engineering,Fiction,2022-01-17,13
+Quantum Physics,Physics,Education,2020-07-22,6
+Operating Systems,Chemistry,Technology,2023-05-16,13
+Organic Chemistry,Chemistry,Science,2021-05-31,11
+Machine Learning,Literature,Education,2024-01-25,8
+Quantum Physics,Engineering,Reference,2024-10-21,12
+Artificial Intelligence,History,Technology,2021-09-13,9
+Data Structures,Chemistry,Science,2024-01-03,18
+Poetry Collection,Computer Science,Reference,2022-04-05,15
+Modern History,Physics,Mystery,2024-01-22,15
+Modern History,Mathematics,Biography,2021-08-24,18
+Database Systems,History,Biography,2020-12-28,9
+Robotics,History,Education,2021-04-02,16
+Digital Logic Design,Literature,Technology,2024-02-03,8
+Human Anatomy,Chemistry,Science,2023-08-25,7
+Organic Chemistry,History,Fiction,2020-05-02,6
+Environmental Studies,Biology,Biography,2023-12-25,18
+Quantum Physics,Mathematics,Reference,2024-11-01,11
+Organic Chemistry,Engineering,Fiction,2023-01-30,19
+Robotics,Engineering,Science,2021-08-17,11
+Digital Logic Design,History,Technology,2023-02-07,15
+Machine Learning,Computer Science,Biography,2023-08-03,8
+Operating Systems,Literature,Science,2023-09-22,8
+Advanced Mathematics,Mathematics,Biography,2022-12-14,7
+Artificial Intelligence,Engineering,Mystery,2024-03-06,19
+Advanced Mathematics,Physics,Fiction,2020-03-11,20
+Organic Chemistry,Engineering,Fiction,2023-08-06,9
+Digital Logic Design,Biology,Education,2022-05-05,8
+Poetry Collection,Mathematics,Biography,2022-11-10,20
+Organic Chemistry,Computer Science,Fiction,2023-07-24,9
+Database Systems,Mathematics,Biography,2020-01-18,8
+Environmental Studies,Mathematics,Biography,2021-11-02,5
+Modern History,Engineering,Fiction,2022-01-18,13
+Robotics,Literature,Mystery,2021-10-20,10
+Environmental Studies,Biology,Biography,2020-11-03,7
+Data Structures,History,Technology,2021-10-05,20
+Quantum Physics,Engineering,Fiction,2021-11-04,6
+Data Structures,Mathematics,Science,2022-12-06,10
+Artificial Intelligence,Literature,Technology,2022-01-18,14
+Human Anatomy,Engineering,Mystery,2021-09-23,6
+Artificial Intelligence,Literature,Education,2022-04-26,11
+Artificial Intelligence,Mathematics,Fiction,2024-01-24,16
+Database Systems,Mathematics,Biography,2024-09-07,15
+Artificial Intelligence,Engineering,Fiction,2024-01-09,20
+Organic Chemistry,Literature,Mystery,2021-07-04,8
+Artificial Intelligence,Biology,Reference,2024-05-05,16
+Digital Logic Design,Physics,Biography,2023-03-28,14
+Database Systems,Literature,Biography,2023-11-19,20
+Organic Chemistry,Computer Science,Science,2022-12-14,12
+Network Security,Engineering,Reference,2023-02-22,9
+Modern History,Chemistry,Fiction,2023-08-01,10
+Quantum Physics,Mathematics,Education,2020-04-06,6
+Digital Logic Design,History,Mystery,2022-09-04,8
+Digital Logic Design,Engineering,Education,2023-05-31,17
+Data Structures,Engineering,Reference,2023-05-07,12
+Robotics,Literature,Mystery,2020-01-20,18
+Digital Logic Design,Physics,Science,2021-03-04,11
+Modern History,Computer Science,Reference,2022-08-21,12
+Environmental Studies,Physics,Biography,2020-07-18,15
+Data Structures,Computer Science,Mystery,2021-10-30,11
+Human Anatomy,Computer Science,Biography,2023-10-21,15
+Data Structures,Chemistry,Biography,2023-05-17,7
+Network Security,Biology,Education,2024-03-21,6
+Organic Chemistry,Physics,Reference,2022-06-07,6
+Robotics,Biology,Biography,2020-09-06,11
+Operating Systems,Biology,Mystery,2022-07-07,9
+Quantum Physics,Engineering,Reference,2021-11-30,19
+Advanced Mathematics,Engineering,Fiction,2023-10-20,16
+Artificial Intelligence,Physics,Biography,2020-07-22,6
+Organic Chemistry,Physics,Education,2021-12-03,19
+Data Structures,Engineering,Mystery,2021-03-09,17
+Database Systems,History,Technology,2024-03-27,18
+Advanced Mathematics,Engineering,Science,2022-07-28,11
+Network Security,Mathematics,Technology,2021-01-05,6
+Quantum Physics,Engineering,Science,2022-02-14,11
+Machine Learning,Chemistry,Technology,2022-05-27,11
+Environmental Studies,Engineering,Mystery,2023-05-04,15
+Environmental Studies,Mathematics,Education,2021-12-11,8
+Robotics,Chemistry,Fiction,2020-12-03,11
+Advanced Mathematics,Physics,Technology,2022-08-24,19
+Database Systems,Engineering,Science,2023-01-05,13
+Environmental Studies,Physics,Fiction,2022-07-29,13
+Operating Systems,Engineering,Fiction,2021-05-26,12
+Robotics,Chemistry,Fiction,2022-01-09,5
+Data Structures,Engineering,Mystery,2021-04-12,12
+Robotics,Physics,Biography,2021-06-29,15
+Digital Logic Design,Literature,Mystery,2022-10-20,19
+Data Structures,Mathematics,Reference,2024-02-19,10
+Advanced Mathematics,Physics,Technology,2024-11-15,17
+Machine Learning,Biology,Education,2020-02-12,12
+Network Security,Mathematics,Reference,2023-05-21,9
+Digital Logic Design,Engineering,Fiction,2024-03-09,12
+Poetry Collection,Chemistry,Fiction,2023-06-26,15
+Database Systems,Literature,Biography,2021-09-14,8
+Network Security,Biology,Fiction,2023-08-24,17
+Operating Systems,Physics,Reference,2022-01-31,11
+Artificial Intelligence,Literature,Mystery,2022-05-14,16
+Organic Chemistry,History,Education,2021-12-12,10
+Human Anatomy,Engineering,Technology,2020-02-21,8
+Organic Chemistry,Mathematics,Fiction,2022-08-03,16
+Advanced Mathematics,Mathematics,Technology,2020-05-03,15
+Organic Chemistry,History,Education,2021-04-29,5
+Poetry Collection,Physics,Mystery,2020-02-07,11
+Advanced Mathematics,Biology,Reference,2021-12-18,13
+Operating Systems,Engineering,Education,2021-09-09,9
+Poetry Collection,Computer Science,Biography,2020-01-14,10
+Machine Learning,Mathematics,Reference,2023-08-24,10
+Poetry Collection,Literature,Biography,2020-09-06,8
+Database Systems,History,Reference,2022-08-17,7
+Environmental Studies,Biology,Education,2021-10-06,8
+Human Anatomy,Computer Science,Mystery,2023-10-28,16
+Operating Systems,Chemistry,Reference,2022-06-28,19
+Network Security,Mathematics,Mystery,2021-10-23,18
+Database Systems,Biology,Mystery,2021-08-18,5
+Advanced Mathematics,Literature,Education,2021-12-27,17
+Machine Learning,Mathematics,Mystery,2020-01-24,11
+Poetry Collection,Physics,Science,2023-09-22,5
+Modern History,Physics,Mystery,2023-10-07,9
+Poetry Collection,Biology,Biography,2023-07-04,20
+Advanced Mathematics,Chemistry,Biography,2022-01-02,18
+Digital Logic Design,Chemistry,Biography,2023-07-17,13
+Modern History,Chemistry,Science,2020-09-08,5
+Digital Logic Design,Physics,Mystery,2023-01-10,14
+Organic Chemistry,Physics,Mystery,2021-01-12,5
+Organic Chemistry,Mathematics,Science,2021-03-09,8
+Database Systems,Mathematics,Mystery,2023-11-24,18
+Modern History,Chemistry,Technology,2021-03-21,5
+Environmental Studies,Biology,Biography,2020-05-31,18
+Quantum Physics,Chemistry,Biography,2021-03-31,9
+Organic Chemistry,Engineering,Technology,2024-08-05,12
+Operating Systems,Computer Science,Technology,2023-03-15,20
+Modern History,Chemistry,Mystery,2024-12-16,8
+Digital Logic Design,History,Technology,2022-11-08,11
+Quantum Physics,Physics,Mystery,2022-03-25,9
+Operating Systems,Engineering,Science,2020-09-04,20
+Artificial Intelligence,History,Reference,2023-04-30,6
+Quantum Physics,Computer Science,Biography,2023-05-10,6
+Network Security,Computer Science,Technology,2023-11-13,13
+Machine Learning,Computer Science,Education,2020-10-05,17
+Operating Systems,Biology,Mystery,2022-06-11,9
+Poetry Collection,History,Science,2021-12-10,19
+Network Security,Engineering,Science,2023-08-07,10
+Operating Systems,Physics,Biography,2024-12-16,11
+Robotics,History,Education,2021-07-03,12
+Quantum Physics,Biology,Mystery,2023-12-30,5
+Digital Logic Design,Mathematics,Fiction,2021-05-26,17
+Machine Learning,Engineering,Reference,2024-12-10,15
+Database Systems,History,Reference,2023-04-04,7
+Artificial Intelligence,Computer Science,Science,2023-11-05,6
+Human Anatomy,History,Mystery,2022-04-07,6
+Advanced Mathematics,Computer Science,Reference,2022-05-24,9
+Human Anatomy,Chemistry,Education,2023-03-19,7
+Advanced Mathematics,Literature,Science,2022-04-18,12
+Artificial Intelligence,History,Reference,2021-09-05,16
+Environmental Studies,Biology,Biography,2020-05-07,20
+Machine Learning,Physics,Mystery,2021-05-15,16
+Environmental Studies,Literature,Reference,2024-05-18,20
+Artificial Intelligence,Biology,Biography,2023-08-21,11
+Organic Chemistry,Engineering,Technology,2023-08-09,13
+Robotics,Computer Science,Technology,2021-02-09,9
+Environmental Studies,Physics,Mystery,2024-01-12,10
+Artificial Intelligence,Mathematics,Science,2024-12-12,11
+Database Systems,Engineering,Education,2022-10-20,12
+Advanced Mathematics,Physics,Biography,2021-02-23,19
+Advanced Mathematics,History,Science,2023-01-16,15
+Quantum Physics,Physics,Reference,2022-08-22,11
+Machine Learning,Computer Science,Reference,2024-02-29,9
+Poetry Collection,Biology,Education,2021-03-04,20
+Advanced Mathematics,Computer Science,Reference,2024-07-25,7
+Human Anatomy,Mathematics,Reference,2024-08-14,13
+Network Security,Computer Science,Fiction,2022-09-27,8
+Artificial Intelligence,Computer Science,Biography,2022-05-07,14
+Database Systems,Mathematics,Science,2021-03-23,16
+Machine Learning,Chemistry,Education,2023-04-02,9
+Machine Learning,Computer Science,Mystery,2021-05-05,19
+Organic Chemistry,Engineering,Mystery,2023-12-02,20
+Poetry Collection,Mathematics,Mystery,2021-12-24,5
+Quantum Physics,Physics,Mystery,2022-01-20,13
+Network Security,Physics,Mystery,2020-12-06,16
+Digital Logic Design,Mathematics,Education,2022-12-12,10
+Robotics,Mathematics,Science,2024-12-02,19
+Digital Logic Design,Computer Science,Education,2023-09-23,11
+Human Anatomy,Computer Science,Fiction,2020-02-05,5
+Operating Systems,Biology,Biography,2021-09-25,14
+Data Structures,Physics,Technology,2021-08-05,13
+Operating Systems,Chemistry,Biography,2022-03-08,5
+Robotics,Mathematics,Technology,2022-05-28,15
+Poetry Collection,Engineering,Mystery,2021-08-22,18
+Artificial Intelligence,Physics,Reference,2022-03-31,16
+Human Anatomy,Chemistry,Reference,2020-02-17,13
+Machine Learning,Computer Science,Mystery,2024-02-21,15
+Artificial Intelligence,Physics,Science,2020-10-20,10
+Data Structures,Engineering,Reference,2022-01-20,15
+Network Security,Literature,Reference,2020-02-02,14
+Environmental Studies,Chemistry,Science,2024-11-10,12
+Poetry Collection,Computer Science,Mystery,2023-10-14,16
+Data Structures,Mathematics,Education,2024-02-23,15
+Advanced Mathematics,Literature,Mystery,2021-05-04,17
+Modern History,History,Technology,2021-05-03,16
+Organic Chemistry,Computer Science,Biography,2023-12-27,8
+Quantum Physics,History,Technology,2024-02-18,9
+Network Security,Chemistry,Reference,2022-12-30,14
+Machine Learning,Chemistry,Science,2020-02-19,7
+Network Security,Physics,Science,2022-05-23,18
+Database Systems,Chemistry,Technology,2021-10-15,13
+Operating Systems,Chemistry,Fiction,2022-03-25,8
+Digital Logic Design,Computer Science,Education,2020-03-23,5
+Data Structures,Mathematics,Technology,2021-05-12,7
+Modern History,Physics,Fiction,2024-03-18,10
+Digital Logic Design,Mathematics,Technology,2024-05-16,13
+Database Systems,Mathematics,Reference,2020-08-02,7
+Modern History,Literature,Education,2021-10-31,8
+Poetry Collection,Literature,Fiction,2020-05-27,15
+Database Systems,Engineering,Reference,2021-02-28,19
+Database Systems,Mathematics,Reference,2022-04-25,9
+Artificial Intelligence,Literature,Reference,2024-08-11,15
+Poetry Collection,Engineering,Science,2020-01-06,14
+Modern History,Mathematics,Biography,2021-09-14,12
+Database Systems,Chemistry,Mystery,2023-11-27,15
+Advanced Mathematics,Computer Science,Reference,2021-12-01,15
+Network Security,Literature,Science,2021-12-27,16
+Artificial Intelligence,Mathematics,Fiction,2020-07-24,6
+Operating Systems,Physics,Reference,2020-02-06,10
+Network Security,Computer Science,Biography,2022-02-12,11
+Data Structures,Chemistry,Fiction,2024-03-09,5
+Data Structures,Chemistry,Fiction,2021-05-28,10
+Human Anatomy,History,Education,2021-11-28,12
+Human Anatomy,Mathematics,Reference,2022-04-23,13
+Database Systems,Physics,Technology,2024-07-08,12
+Digital Logic Design,Literature,Technology,2023-12-12,15
+Modern History,Computer Science,Education,2023-07-31,16
+Robotics,Computer Science,Science,2020-10-14,9
+Environmental Studies,Biology,Science,2023-11-23,16
+Digital Logic Design,Biology,Biography,2020-05-20,5
+Artificial Intelligence,Literature,Fiction,2020-03-23,5
+Environmental Studies,Biology,Biography,2022-01-24,20
+Advanced Mathematics,Computer Science,Fiction,2021-01-05,17
+Machine Learning,Biology,Biography,2022-06-29,5
+Network Security,Physics,Technology,2020-02-19,10
+Network Security,Mathematics,Fiction,2021-11-18,7
+Operating Systems,Engineering,Reference,2024-07-19,8
+Machine Learning,Physics,Fiction,2022-08-03,8
+Poetry Collection,Literature,Technology,2020-08-18,19
+Network Security,Biology,Reference,2022-05-05,8
+Quantum Physics,History,Biography,2020-06-27,6
+Operating Systems,Physics,Reference,2023-10-14,20
+Advanced Mathematics,Chemistry,Fiction,2023-06-12,9
+Network Security,Chemistry,Fiction,2023-12-25,9
+Human Anatomy,Chemistry,Mystery,2024-02-14,14
+Advanced Mathematics,History,Mystery,2024-08-12,10
+Operating Systems,Physics,Science,2020-07-29,9
+Environmental Studies,Physics,Education,2024-02-06,5
+Artificial Intelligence,Chemistry,Technology,2024-07-30,5
+Database Systems,Computer Science,Mystery,2023-06-07,20
+Human Anatomy,Engineering,Technology,2021-11-10,5
+Organic Chemistry,Biology,Mystery,2023-03-17,12
+Database Systems,Engineering,Technology,2021-11-28,11
+Artificial Intelligence,Chemistry,Technology,2024-01-12,20
+Data Structures,Engineering,Education,2022-08-17,6
+Network Security,Literature,Biography,2024-07-26,19
+Data Structures,Engineering,Reference,2024-08-26,18
+Artificial Intelligence,Mathematics,Education,2023-10-24,5
+Operating Systems,Engineering,Education,2021-09-21,8
+Machine Learning,Engineering,Science,2021-11-12,8
+Modern History,Literature,Education,2022-05-16,7
+Machine Learning,Engineering,Technology,2023-05-28,19
+Database Systems,History,Mystery,2020-11-27,18
+Robotics,History,Fiction,2020-02-13,6
+Modern History,Mathematics,Science,2022-11-18,12
+Database Systems,History,Education,2022-04-23,7
+Environmental Studies,Physics,Mystery,2021-05-07,17
+Artificial Intelligence,Chemistry,Biography,2023-09-01,15
+Robotics,Biology,Mystery,2020-08-03,16
+Environmental Studies,Engineering,Fiction,2024-06-12,15
+Data Structures,Physics,Mystery,2024-09-09,9
+Artificial Intelligence,History,Science,2024-08-11,7
+Organic Chemistry,Physics,Technology,2020-12-18,17
+Network Security,Biology,Mystery,2020-07-30,20
+Operating Systems,Biology,Mystery,2021-01-18,17
+Modern History,History,Fiction,2023-06-11,6
+Digital Logic Design,History,Mystery,2022-01-31,20
+Database Systems,Engineering,Technology,2022-05-10,12
+Operating Systems,Computer Science,Mystery,2022-09-30,12
+Data Structures,Biology,Reference,2020-01-07,18
+Modern History,Chemistry,Technology,2024-12-09,20
+Environmental Studies,Literature,Fiction,2023-04-19,12
+Operating Systems,Physics,Education,2021-07-14,18
+Operating Systems,Physics,Technology,2022-11-21,5
+Machine Learning,Engineering,Biography,2020-06-22,20
+Data Structures,Computer Science,Mystery,2024-08-24,5
+Machine Learning,Engineering,Mystery,2020-07-17,13
+Organic Chemistry,Physics,Reference,2023-11-18,13
+Human Anatomy,Literature,Education,2021-09-17,6
+Organic Chemistry,Computer Science,Reference,2023-04-23,14
+Environmental Studies,Mathematics,Mystery,2020-02-29,16
+Quantum Physics,Literature,Science,2024-07-15,18
+Advanced Mathematics,Mathematics,Education,2021-06-18,19
+Data Structures,Computer Science,Science,2022-04-13,18
+Advanced Mathematics,Biology,Fiction,2021-10-23,17
+Network Security,History,Mystery,2022-06-23,19
+Advanced Mathematics,Physics,Fiction,2022-04-10,6
+Database Systems,History,Biography,2024-03-27,15
+Machine Learning,Engineering,Science,2021-11-18,19
+Digital Logic Design,Engineering,Mystery,2021-05-23,6
+Data Structures,Computer Science,Science,2024-11-06,13
+Robotics,History,Reference,2024-01-14,15
+Database Systems,Mathematics,Science,2022-02-05,16
+Operating Systems,Chemistry,Science,2022-08-22,12
+Network Security,Biology,Mystery,2022-03-27,16
+Quantum Physics,Engineering,Reference,2024-06-27,13
+Environmental Studies,Physics,Fiction,2023-01-16,18
+Data Structures,Chemistry,Fiction,2023-08-08,11
+Operating Systems,History,Biography,2023-03-12,5
+Artificial Intelligence,Engineering,Reference,2020-05-21,10
+Advanced Mathematics,Chemistry,Mystery,2023-04-01,18
+Advanced Mathematics,Biology,Education,2024-05-17,16
+Data Structures,Engineering,Reference,2022-06-24,13
+Data Structures,Mathematics,Mystery,2022-08-20,11
+Machine Learning,Biology,Biography,2022-02-14,7
+Advanced Mathematics,Computer Science,Science,2021-12-29,20
+Digital Logic Design,Mathematics,Fiction,2020-09-14,9
+Data Structures,Biology,Education,2024-02-22,9
+Data Structures,Mathematics,Science,2022-03-02,19
+Environmental Studies,Biology,Fiction,2023-05-07,11
+Artificial Intelligence,Computer Science,Mystery,2022-08-21,14
+Organic Chemistry,Biology,Reference,2021-05-13,10
+Poetry Collection,Physics,Biography,2023-02-13,19
+Poetry Collection,Chemistry,Fiction,2020-05-11,11
+Human Anatomy,Literature,Education,2021-06-29,17
+Quantum Physics,Computer Science,Reference,2024-02-07,14
+Human Anatomy,Literature,Education,2020-02-23,6
+Robotics,Literature,Fiction,2024-05-25,8
+Operating Systems,History,Mystery,2024-07-28,10
+Modern History,Biology,Reference,2021-04-25,8
+Machine Learning,Physics,Biography,2020-01-16,15
+Poetry Collection,Literature,Fiction,2024-12-29,7
+Poetry Collection,Chemistry,Biography,2024-03-28,20
+Digital Logic Design,Mathematics,Biography,2020-11-28,16

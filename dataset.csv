@@ -1,0 +1,201 @@
+Title,Department,Genre,BorrowDate,Count
+Data Structures,Biology,Reference,2023-03-01,8
+Organic Chemistry,English,Reference,2023-01-22,12
+Operating Systems,English,Reference,2023-03-10,5
+Data Structures,Computer Science,Fiction,2024-03-01,9
+Organic Chemistry,English,Fiction,2023-01-22,9
+Operating Systems,Mathematics,Fiction,2023-03-01,5
+Organic Chemistry,Biology,Fiction,2023-01-22,8
+Organic Chemistry,Computer Science,Fiction,2023-01-22,5
+Organic Chemistry,English,Fiction,2023-10-01,8
+Poetry Collection,Computer Science,Reference,2050-01-22,9
+Poetry Collection,Computer Science,Science,2023-01-22,9
+Operating Systems,Biology,Science,2023-02-15,8
+Organic Chemistry,English,Reference,2023-02-17,5
+Mathematics Basics,English,Science,2023-03-01,9
+Data Structures,Biology,Fiction,2023-03-10,5
+Organic Chemistry,Biology,Reference,2023-01-22,12
+Poetry Collection,Computer Science,Science,2023-01-22,10
+Data Structures,Computer Science,Science,2023-02-15,10
+Data Structures,Biology,Fiction,2023-02-17,9
+Data Structures,Biology,Fiction,2023-02-17,8
+Poetry Collection,Mathematics,Science,2023-02-17,8
+Poetry Collection,English,Science,2023-03-10,10
+Mathematics Basics,English,Fiction,2023-02-17,9
+Poetry Collection,Mathematics,Science,2023-01-22,9
+Poetry Collection,Biology,Science,2023-03-10,5
+Operating Systems,English,Reference,2023-03-01,5
+Data Structures,Mathematics,Fiction,2023-02-17,9
+Data Structures,English,Fiction,2023-01-22,12
+Mathematics Basics,English,Science,2023-03-10,9
+Mathematics Basics,Biology,Science,2023-02-15,9
+Mathematics Basics,Mathematics,Reference,2023-01-22,5
+Operating Systems,Mathematics,Reference,2023-01-22,12
+Mathematics Basics,Mathematics,Science,2023-02-17,9
+Operating Systems,Biology,Science,2023-02-17,10
+Data Structures,Computer Science,Science,2023-02-17,8
+Mathematics Basics,Computer Science,Fiction,2023-01-22,12
+Poetry Collection,English,Fiction,2023-03-10,5
+Organic Chemistry,Biology,Science,2023-03-10,10
+Poetry Collection,English,Fiction,2023-02-15,9
+Data Structures,Computer Science,Science,2023-03-01,12
+Mathematics Basics,Mathematics,Science,2023-02-17,8
+Poetry Collection,Computer Science,Science,2023-03-01,12
+Poetry Collection,English,Reference,2023-01-22,12
+Mathematics Basics,English,Fiction,2023-03-01,12
+Operating Systems,Mathematics,Fiction,2023-02-15,12
+Data Structures,English,Science,2023-02-15,12
+Mathematics Basics,English,Fiction,2023-03-10,5
+Organic Chemistry,English,Fiction,2023-02-17,8
+Operating Systems,Computer Science,Fiction,2023-01-22,8
+Organic Chemistry,English,Science,2023-01-22,5
+Poetry Collection,English,Fiction,2023-03-01,12
+Mathematics Basics,Mathematics,Fiction,2023-01-22,5
+Mathematics Basics,Computer Science,Reference,2023-02-17,10
+Operating Systems,English,Science,2023-02-17,8
+Data Structures,Computer Science,Science,2023-03-01,10
+Operating Systems,Mathematics,Fiction,2023-03-10,5
+Poetry Collection,English,Reference,2023-02-15,5
+Operating Systems,Computer Science,Reference,2023-03-01,5
+Mathematics Basics,Computer Science,Fiction,2023-03-10,5
+Organic Chemistry,Computer Science,Science,2023-02-15,5
+Mathematics Basics,Computer Science,Science,2023-02-15,12
+Poetry Collection,Computer Science,Fiction,2023-03-10,9
+Data Structures,Computer Science,Reference,2023-01-22,8
+Organic Chemistry,Computer Science,Science,2023-02-17,10
+Organic Chemistry,Biology,Science,2023-02-15,8
+Organic Chemistry,English,Reference,2023-03-01,10
+Operating Systems,Computer Science,Fiction,2023-03-01,9
+Data Structures,Biology,Fiction,2023-02-15,9
+Operating Systems,Computer Science,Fiction,2023-02-15,9
+Operating Systems,Mathematics,Science,2023-02-17,5
+Poetry Collection,Biology,Science,2023-02-17,5
+Mathematics Basics,Computer Science,Reference,2023-03-10,10
+Data Structures,English,Reference,2023-03-10,10
+Operating Systems,Computer Science,Reference,2023-02-15,5
+Organic Chemistry,Biology,Fiction,2023-01-22,9
+Mathematics Basics,Mathematics,Fiction,2023-03-10,5
+Operating Systems,Biology,Reference,2023-03-01,12
+Organic Chemistry,Biology,Reference,2023-03-10,8
+Operating Systems,Computer Science,Reference,2023-01-22,10
+Data Structures,Computer Science,Fiction,2023-03-01,12
+Mathematics Basics,Biology,Science,2023-01-22,9
+Operating Systems,Biology,Science,2023-03-01,8
+Poetry Collection,Biology,Fiction,2023-03-01,8
+Data Structures,Mathematics,Fiction,2023-01-22,12
+Data Structures,Computer Science,Science,2023-03-01,9
+Organic Chemistry,Mathematics,Science,2023-01-22,9
+Poetry Collection,Computer Science,Science,2023-03-10,10
+Operating Systems,English,Science,2023-02-15,9
+Organic Chemistry,English,Reference,2023-02-15,9
+Mathematics Basics,English,Fiction,2023-03-01,12
+Poetry Collection,Mathematics,Reference,2023-03-01,9
+Organic Chemistry,Biology,Science,2023-03-01,10
+Operating Systems,Mathematics,Fiction,2023-02-17,10
+Data Structures,English,Fiction,2023-02-17,8
+Poetry Collection,Mathematics,Reference,2023-01-22,9
+Operating Systems,Biology,Fiction,2023-02-15,9
+Poetry Collection,English,Fiction,2023-03-10,9
+Organic Chemistry,Mathematics,Science,2023-03-01,10
+Mathematics Basics,English,Science,2023-03-01,9
+Operating Systems,Computer Science,Science,2023-03-10,5
+Poetry Collection,Computer Science,Fiction,2023-02-17,8
+Data Structures,Computer Science,Fiction,2023-03-01,9
+Data Structures,Computer Science,Science,2023-03-01,5
+Data Structures,Computer Science,Reference,2023-02-17,5
+Mathematics Basics,Biology,Fiction,2023-02-17,12
+Data Structures,Mathematics,Science,2023-03-01,12
+Poetry Collection,Biology,Science,2023-02-15,5
+Operating Systems,Mathematics,Fiction,2023-02-17,9
+Operating Systems,Biology,Fiction,2023-02-17,12
+Organic Chemistry,Mathematics,Fiction,2023-01-22,9
+Poetry Collection,Computer Science,Reference,2023-03-10,10
+Mathematics Basics,Mathematics,Fiction,2023-02-17,9
+Organic Chemistry,Computer Science,Science,2023-03-10,12
+Mathematics Basics,Biology,Science,2023-01-22,9
+Poetry Collection,Computer Science,Science,2023-03-01,5
+Operating Systems,Computer Science,Fiction,2023-02-17,10
+Data Structures,English,Reference,2023-03-10,9
+Mathematics Basics,Biology,Fiction,2023-03-10,9
+Mathematics Basics,English,Science,2023-02-15,10
+Organic Chemistry,Mathematics,Science,2023-02-17,5
+Data Structures,Computer Science,Reference,2023-02-17,9
+Data Structures,Biology,Fiction,2023-03-01,12
+Data Structures,Biology,Reference,2023-03-10,10 
+Operating Systems,Biology,Fiction,2023-02-15,5
+Operating Systems,Mathematics,Science,2023-03-10,5
+Operating Systems,Biology,Science,2023-03-10,12
+Operating Systems,Computer Science,Reference,2023-03-10,12
+Organic Chemistry,Biology,Fiction,2023-01-22,9
+Organic Chemistry,Mathematics,Science,2023-02-17,10
+Mathematics Basics,Computer Science,Science,2023-01-22,5
+Poetry Collection,English,Science,2023-02-15,8
+Data Structures,Computer Science,Science,2023-01-22,5
+Mathematics Basics,Computer Science,Fiction,2023-03-10,10
+Poetry Collection,Biology,Reference,2023-02-15,10
+Operating Systems,Mathematics,Fiction,2023-02-17,10
+Organic Chemistry,Mathematics,Science,2023-01-22,5
+Organic Chemistry,Biology,Reference,2023-01-22,10
+Poetry Collection,Mathematics,Science,2023-02-15,12
+Organic Chemistry,Computer Science,Science,2023-03-01,8
+Data Structures,Biology,Fiction,2023-02-17,9
+Organic Chemistry,Biology,Science,2023-03-01,8
+Operating Systems,English,Science,2023-03-01,12
+Poetry Collection,English,Fiction,2023-02-15,9
+Mathematics Basics,Mathematics,Fiction,2023-02-17,10
+Operating Systems,Biology,Reference,2023-03-01,8
+Data Structures,Mathematics,Science,2023-02-15,5
+Poetry Collection,Computer Science,Reference,2023-03-10,12
+Data Structures,English,Science,2023-02-15,5
+Mathematics Basics,Biology,Fiction,2023-02-17,12
+Organic Chemistry,Computer Science,Fiction,2023-02-15,9
+Data Structures,Mathematics,Science,2023-03-10,8
+Mathematics Basics,Computer Science,Reference,2023-01-22,5
+Data Structures,Computer Science,Fiction,2023-03-01,5
+Poetry Collection,Mathematics,Fiction,2023-03-10,5
+Mathematics Basics,Mathematics,Science,2023-03-01,10
+Mathematics Basics,Computer Science,Reference,2023-02-15,5
+Operating Systems,English,Science,2023-03-01,9
+Poetry Collection,Computer Science,Fiction,2023-03-01,9
+Poetry Collection,English,Reference,2023-02-17,10
+Operating Systems,Computer Science,Fiction,2023-02-15,10
+Organic Chemistry,English,Science,2023-02-17,8
+Data Structures,Computer Science,Reference,2023-02-15,9
+Mathematics Basics,Computer Science,Fiction,2023-02-15,8
+Mathematics Basics,Biology,Fiction,2023-02-15,10
+Mathematics Basics,Computer Science,Fiction,2023-02-15,9
+Operating Systems,Computer Science,Science,2023-03-01,9
+Poetry Collection,Biology,Science,2023-03-10,9
+Data Structures,Computer Science,Science,2023-03-10,5
+Mathematics Basics,Biology,Science,2023-03-01,5
+Mathematics Basics,Computer Science,Science,2023-02-15,12
+Data Structures,Computer Science,Reference,2023-03-01,9
+Data Structures,Biology,Fiction,2023-03-10,9
+Organic Chemistry,Computer Science,Fiction,2023-02-15,9
+Poetry Collection,Biology,Science,2023-01-22,9
+Data Structures,Mathematics,Reference,2023-02-15,9
+Poetry Collection,Computer Science,Fiction,2023-03-10,9
+Poetry Collection,Mathematics,Fiction,2023-03-01,9
+Poetry Collection,English,Reference,2023-01-22,9
+Poetry Collection,English,Science,2023-01-22,9
+Poetry Collection,English,Fiction,2023-01-22,5
+Organic Chemistry,Computer Science,Reference,2023-03-01,8
+Poetry Collection,Mathematics,Fiction,2023-01-22,12
+Mathematics Basics,English,Fiction,2023-03-01,8
+Data Structures,English,Reference,2023-03-01,9
+Poetry Collection,Computer Science,Science,2023-02-15,9
+Poetry Collection,Mathematics,Reference,2023-03-01,12
+Mathematics Basics,English,Fiction,2023-01-22,10
+Operating Systems,Computer Science,Reference,2023-02-17,9
+Poetry Collection,Mathematics,Science,2023-02-17,12
+Mathematics Basics,Mathematics,Reference,2023-01-22,8
+Organic Chemistry,Mathematics,Science,2023-01-22,5
+Data Structures,English,Reference,2023-03-10,9
+Organic Chemistry,English,Reference,2023-03-01,10
+Mathematics Basics,English,Reference,2023-01-22,5
+Operating Systems,English,Fiction,2023-03-10,12
+Mathematics Basics,Mathematics,Reference,2023-03-10,5
+Operating Systems,English,Science,2023-01-22,5
+Organic Chemistry,Biology,Science,2023-03-10,12
+Data Structures,Computer Science,Science,2023-03-10,5
+Organic Chemistry,Computer Science,Fiction,2023-02-17,5
